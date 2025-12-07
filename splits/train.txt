@@ -1,0 +1,16 @@
+spoof/2.wav 1
+bona_fide/5.wav 0
+spoof/7.wav 1
+bona_fide/7.wav 0
+bona_fide/2.wav 0
+spoof/6.wav 1
+spoof/5.wav 1
+spoof/3.wav 1
+bona_fide/4.wav 0
+spoof/8.wav 1
+spoof/1.wav 1
+spoof/10.wav 1
+bona_fide/9.wav 0
+spoof/9.wav 1
+bona_fide/8.wav 0
+spoof/4.wav 1
